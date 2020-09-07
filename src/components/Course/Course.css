@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  
+}
+.review{
+  background: #f1f1f1;
+  width: 40%;
+  height: 400px;
+  padding: 20px;
+  border-radius :15px;
+  margin: 20px;
+}
